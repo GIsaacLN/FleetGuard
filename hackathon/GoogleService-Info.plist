@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyATxQu4dR54mjidav-7FxJ5doqHgVWcnWk</string>
+	<key>BUNDLE_ID</key>
+	<string>Isaac.hackathon</string>
+	<key>CLIENT_ID</key>
+	<string>1093666615458-94a6gog7kbqve8jodfta5sk7fkibaovp.apps.googleusercontent.com</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1093666615458</string>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1093666615458:ios:93918d9700d3dfb78e27fb</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>PROJECT_ID</key>
+	<string>hackathon-48bc5</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1093666615458-94a6gog7kbqve8jodfta5sk7fkibaovp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hackathon-48bc5.appspot.com</string>
+</dict>
+</plist>
